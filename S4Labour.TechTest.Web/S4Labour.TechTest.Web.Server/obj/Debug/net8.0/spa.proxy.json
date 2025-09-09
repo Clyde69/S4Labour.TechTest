@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:49964",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\S4Labour.TechTest.Web.Server\\..\\s4labour.techtest.web.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

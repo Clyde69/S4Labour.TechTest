@@ -1,0 +1,6 @@
+@S4Labour.TechTest.Web.Server_HostAddress = http://localhost:5198
+
+GET {{S4Labour.TechTest.Web.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

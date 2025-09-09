@@ -1,0 +1,17 @@
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 1rem 0;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+p {
+    font-size: 24px;
+}
+
+p.error {
+    color: red;
+}

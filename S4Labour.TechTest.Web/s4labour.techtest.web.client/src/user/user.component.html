@@ -1,0 +1,38 @@
+<div class="row">
+    <div class="col-md-3"><img src="{{ activeUser.picture.large }}" /></div>
+    <div class="col-md-3 userItem">
+      <div><b>User Name:&nbsp;</b> <span>{{ activeUser.userName }}</span></div>
+      <div><b>Account Registered:&nbsp;</b> <span>{{ activeUser.accountRegistered }}</span></div>
+      <div><b>Account Age:&nbsp;</b><span>{{ activeUser.accountAge }}&nbsp;years</span></div>
+      <div><b>Favourite:&nbsp;</b><span>{{ activeUser.favourite }}</span></div>
+      <div class="btn btn-primary" (click)="changeFavouriteStatus()" *ngIf="activeUser.favourite">Click to remove from favourites</div>
+      <div class="btn btn-primary" (click)="changeFavouriteStatus()" *ngIf="!activeUser.favourite">Click here to add to favourites</div>
+    </div>
+    <div class="col-md-3 userItem">
+      <div><b>Name:&nbsp;</b> <span>{{ activeUser.title + ' ' + activeUser.firstName + ' ' + activeUser.lastName }}</span></div>
+      <div><b>Date of Birth:&nbsp;</b><span>{{ activeUser.dateOfBirth }}</span></div>
+      <div><b>Age:&nbsp;</b><span>{{ activeUser.age }}&nbsp;years</span></div>
+      <div><b>Email:&nbsp;</b> <span>{{ activeUser.emailAddress }}</span></div>
+    </div>
+    <div class="col-md-3 userItem">
+      <div><b>Address:&nbsp;</b> <span>{{ activeUser.address.number + ', ' + activeUser.address.street + ', ' + activeUser.address.city }}</span></div>
+      <div><b>State / County:&nbsp;</b><span>{{ activeUser.address.state }}</span></div>
+      <div><b>Zip / Postal Code:&nbsp;</b><span>{{ activeUser.address.postCode }}</span></div>
+      <div><b>Timezone:&nbsp;</b><span>{{ activeUser.timezone.description + '(' + activeUser.timezone.utC_Offset +')' }}</span></div>
+    </div>
+  </div>
+
+<h2>Notes</h2>
+
+<form [formGroup]="addNoteForm" (submit)="addNote()">
+  <div class="row">
+    <div class="col-md-1 userItem"><label for="note">Note Text</label></div>
+    <div class="col-md-3 userItem"><textarea id="note" formControlName="note"></textarea></div>
+    <div class="col-md-3 userItem"><button type="submit" class="primary">Add Note</button></div>
+  </div>  
+</form>
+
+<div class="row" *ngFor="let note of userNotes">
+  <div class="col-md-4 userItem">{{ note.dateAndTime | date: 'medium' }}</div>
+  <div class="col-md-6 userItem">{{ note.note }}</div>
+</div>

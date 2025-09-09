@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.UI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\S4Labour.TechTest.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\S4Labour.TechTest.UI.vsq9bldbfw.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.UI\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.S4Labour.TechTest.UI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.S4Labour.TechTest.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.S4Labour.TechTest.UI.props",
+      "PackagePath": "build\\S4Labour.TechTest.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.S4Labour.TechTest.UI.props",
+      "PackagePath": "buildMultiTargeting\\S4Labour.TechTest.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.S4Labour.TechTest.UI.props",
+      "PackagePath": "buildTransitive\\S4Labour.TechTest.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

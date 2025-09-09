@@ -1,0 +1,14 @@
+<h1 id="userLabel">Favourite Users List</h1>
+<p *ngIf="!loadingComplete"><em>Loading users...</em></p>>
+<p class="error" *ngIf="errored" (click)="getUserList()">
+  <em>An error occured loading users. Please click here to try again.<i class="fa fa-refresh" style="font-size:24px"></i></em>
+</p>
+
+<div class="row">
+  <div class="col-md-2">
+    <userlist [listItems]="users" (selectedValueChanged)="loadUser($event)" />
+  </div>
+  <div class="col-md-10" *ngIf="userSelected">
+    <user [activeUser]="activeUser" (favouriteStateChanged)="getUserList()" />
+  </div>
+</div>

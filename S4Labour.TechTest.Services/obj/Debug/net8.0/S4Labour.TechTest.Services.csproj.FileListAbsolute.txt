@@ -1,0 +1,12 @@
+C:\Users\frank\source\repos\S4Labour.TechTest.UI\S4Labour.TechTest.Services\bin\Debug\net8.0\S4Labour.TechTest.Services.deps.json
+C:\Users\frank\source\repos\S4Labour.TechTest.UI\S4Labour.TechTest.Services\bin\Debug\net8.0\S4Labour.TechTest.Services.dll
+C:\Users\frank\source\repos\S4Labour.TechTest.UI\S4Labour.TechTest.Services\bin\Debug\net8.0\S4Labour.TechTest.Services.pdb
+C:\Users\frank\source\repos\S4Labour.TechTest.UI\S4Labour.TechTest.Services\obj\Debug\net8.0\S4Labour.TechTest.Services.csproj.AssemblyReference.cache
+C:\Users\frank\source\repos\S4Labour.TechTest.UI\S4Labour.TechTest.Services\obj\Debug\net8.0\S4Labour.TechTest.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\source\repos\S4Labour.TechTest.UI\S4Labour.TechTest.Services\obj\Debug\net8.0\S4Labour.TechTest.Services.AssemblyInfoInputs.cache
+C:\Users\frank\source\repos\S4Labour.TechTest.UI\S4Labour.TechTest.Services\obj\Debug\net8.0\S4Labour.TechTest.Services.AssemblyInfo.cs
+C:\Users\frank\source\repos\S4Labour.TechTest.UI\S4Labour.TechTest.Services\obj\Debug\net8.0\S4Labour.TechTest.Services.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\S4Labour.TechTest.UI\S4Labour.TechTest.Services\obj\Debug\net8.0\S4Labour.TechTest.Services.dll
+C:\Users\frank\source\repos\S4Labour.TechTest.UI\S4Labour.TechTest.Services\obj\Debug\net8.0\refint\S4Labour.TechTest.Services.dll
+C:\Users\frank\source\repos\S4Labour.TechTest.UI\S4Labour.TechTest.Services\obj\Debug\net8.0\S4Labour.TechTest.Services.pdb
+C:\Users\frank\source\repos\S4Labour.TechTest.UI\S4Labour.TechTest.Services\obj\Debug\net8.0\ref\S4Labour.TechTest.Services.dll

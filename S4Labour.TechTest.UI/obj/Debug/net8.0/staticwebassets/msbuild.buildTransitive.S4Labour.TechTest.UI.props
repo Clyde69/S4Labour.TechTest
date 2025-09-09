@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\S4Labour.TechTest.UI.props" />
+</Project>
