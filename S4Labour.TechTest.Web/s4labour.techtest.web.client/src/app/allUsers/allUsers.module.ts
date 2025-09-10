@@ -2,21 +2,19 @@ import { HttpClientModule } from '@angular/common/http';
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
-import { FavouriteUsersRoutingModule } from './favouriteUsers-routing.module';
-import { FavouriteUsersComponent } from './favouriteUsers.component';
+import { AllUsersComponent } from './allUsers.component';
 import { UserListComponent } from '../userlist/userlist.component';
 import { UserComponent } from '../user/user.component';
 
 @NgModule({
   declarations: [
-    FavouriteUsersComponent
+    AllUsersComponent
   ],
   imports: [
     BrowserModule, HttpClientModule,
-    FavouriteUsersRoutingModule,
     UserListComponent, UserComponent
   ],
   providers: [],
-  bootstrap: [FavouriteUsersComponent]
+  bootstrap: [AllUsersComponent]
 })
-export class FavouriteUsersModule { }
+export class AllUsersModule { }

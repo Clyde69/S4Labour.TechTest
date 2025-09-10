@@ -41,6 +41,4 @@ export class AllUsersComponent implements OnInit {
     this.activeUser = this.users.find((user) => user.userName == userName)!;
     this.userSelected = true;
   }
-
-  title = 'S4Labour.TechTest.Web.Client';
 }

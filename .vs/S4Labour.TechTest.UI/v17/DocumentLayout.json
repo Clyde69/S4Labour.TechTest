@@ -3,28 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|c:\\users\\frank\\source\\repos\\s4labour.techtest.ui\\s4labour.techtest.web\\s4labour.techtest.web.client\\src\\userlist\\userlist.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|solutionrelative:s4labour.techtest.web\\s4labour.techtest.web.client\\src\\userlist\\userlist.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|c:\\users\\frank\\source\\repos\\s4labour.techtest.ui\\s4labour.techtest.web\\s4labour.techtest.web.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|solutionrelative:s4labour.techtest.web\\s4labour.techtest.web.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|c:\\users\\frank\\source\\repos\\s4labour.techtest.ui\\s4labour.techtest.web\\s4labour.techtest.web.client\\src\\userlist\\userlist.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|solutionrelative:s4labour.techtest.web\\s4labour.techtest.web.client\\src\\userlist\\userlist.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|c:\\users\\frank\\source\\repos\\s4labour.techtest.ui\\s4labour.techtest.web\\s4labour.techtest.web.client\\src\\app\\allusers\\allusers.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|solutionrelative:s4labour.techtest.web\\s4labour.techtest.web.client\\src\\app\\allusers\\allusers.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|c:\\users\\frank\\source\\repos\\s4labour.techtest.ui\\s4labour.techtest.web\\s4labour.techtest.web.client\\src\\allusers\\allusers.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|solutionrelative:s4labour.techtest.web\\s4labour.techtest.web.client\\src\\allusers\\allusers.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|c:\\users\\frank\\source\\repos\\s4labour.techtest.ui\\s4labour.techtest.web\\s4labour.techtest.web.client\\src\\app\\favouriteusers\\favouriteusers.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|solutionrelative:s4labour.techtest.web\\s4labour.techtest.web.client\\src\\app\\favouriteusers\\favouriteusers.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|c:\\users\\frank\\source\\repos\\s4labour.techtest.ui\\s4labour.techtest.web\\s4labour.techtest.web.client\\src\\user\\user.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|solutionrelative:s4labour.techtest.web\\s4labour.techtest.web.client\\src\\user\\user.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|c:\\users\\frank\\source\\repos\\s4labour.techtest.ui\\s4labour.techtest.web\\s4labour.techtest.web.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|solutionrelative:s4labour.techtest.web\\s4labour.techtest.web.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|c:\\users\\frank\\source\\repos\\s4labour.techtest.ui\\s4labour.techtest.web\\s4labour.techtest.web.client\\src\\user\\user.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|solutionrelative:s4labour.techtest.web\\s4labour.techtest.web.client\\src\\user\\user.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|c:\\users\\frank\\source\\repos\\s4labour.techtest.ui\\s4labour.techtest.web\\s4labour.techtest.web.client\\src\\app\\allusers\\allusers.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|solutionrelative:s4labour.techtest.web\\s4labour.techtest.web.client\\src\\app\\allusers\\allusers.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20B6679A-E736-49CC-8C68-AEDA6B2CA143}|S4Labour.TechTest.UI\\S4Labour.TechTest.Server.csproj|c:\\users\\frank\\source\\repos\\s4labour.techtest.ui\\s4labour.techtest.ui\\controllers\\api\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20B6679A-E736-49CC-8C68-AEDA6B2CA143}|S4Labour.TechTest.UI\\S4Labour.TechTest.Server.csproj|solutionrelative:s4labour.techtest.ui\\controllers\\api\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|c:\\users\\frank\\source\\repos\\s4labour.techtest.ui\\s4labour.techtest.web\\s4labour.techtest.web.client\\src\\app\\favouriteusers\\favouriteusers.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|solutionrelative:s4labour.techtest.web\\s4labour.techtest.web.client\\src\\app\\favouriteusers\\favouriteusers.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|c:\\users\\frank\\source\\repos\\s4labour.techtest.ui\\s4labour.techtest.web\\s4labour.techtest.web.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|solutionrelative:s4labour.techtest.web\\s4labour.techtest.web.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|c:\\users\\frank\\source\\repos\\s4labour.techtest.ui\\s4labour.techtest.web\\s4labour.techtest.web.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|solutionrelative:s4labour.techtest.web\\s4labour.techtest.web.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|c:\\users\\frank\\source\\repos\\s4labour.techtest.ui\\s4labour.techtest.web\\s4labour.techtest.web.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|solutionrelative:s4labour.techtest.web\\s4labour.techtest.web.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|c:\\users\\frank\\source\\repos\\s4labour.techtest.ui\\s4labour.techtest.web\\s4labour.techtest.web.client\\src\\app\\allusers\\allusers.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|solutionrelative:s4labour.techtest.web\\s4labour.techtest.web.client\\src\\app\\allusers\\allusers.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|c:\\users\\frank\\source\\repos\\s4labour.techtest.ui\\s4labour.techtest.web\\s4labour.techtest.web.client\\src\\app\\favouriteusers\\favouriteusers.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|solutionrelative:s4labour.techtest.web\\s4labour.techtest.web.client\\src\\app\\favouriteusers\\favouriteusers.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|c:\\users\\frank\\source\\repos\\s4labour.techtest.ui\\s4labour.techtest.web\\s4labour.techtest.web.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8CECE2E7-559C-3CB0-364B-07FEE445D613}|S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj|solutionrelative:s4labour.techtest.web\\s4labour.techtest.web.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,79 +67,157 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "userlist.component.ts",
-              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\userlist\\userlist.component.ts",
-              "RelativeDocumentMoniker": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\userlist\\userlist.component.ts",
-              "ToolTip": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\userlist\\userlist.component.ts",
-              "RelativeToolTip": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\userlist\\userlist.component.ts",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-09-09T20:29:44.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "allUsers.component.ts",
-              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\allUsers\\allUsers.component.ts",
-              "RelativeDocumentMoniker": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\allUsers\\allUsers.component.ts",
-              "ToolTip": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\allUsers\\allUsers.component.ts",
-              "RelativeToolTip": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\allUsers\\allUsers.component.ts",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwBQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-09-09T20:24:22.741Z",
+              "WhenOpened": "2025-09-10T09:25:42.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "user.component.ts",
-              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\user\\user.component.ts",
-              "RelativeDocumentMoniker": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\user\\user.component.ts",
-              "ToolTip": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\user\\user.component.ts",
-              "RelativeToolTip": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\user\\user.component.ts",
-              "ViewState": "AgIAADEAAAAAAAAAAAAgwEoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-09-09T19:50:15.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "user.component.html",
-              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\user\\user.component.html",
-              "RelativeDocumentMoniker": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\user\\user.component.html",
-              "ToolTip": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\user\\user.component.html",
-              "RelativeToolTip": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\user\\user.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABOAAAAAAAAAA==",
+              "Title": "allUsers.component.html",
+              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\allUsers\\allUsers.component.html",
+              "RelativeDocumentMoniker": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\allUsers\\allUsers.component.html",
+              "ToolTip": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\allUsers\\allUsers.component.html",
+              "RelativeToolTip": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\allUsers\\allUsers.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-09-09T19:48:37.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "userlist.component.html",
-              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\userlist\\userlist.component.html",
-              "RelativeDocumentMoniker": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\userlist\\userlist.component.html",
-              "ToolTip": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\userlist\\userlist.component.html",
-              "RelativeToolTip": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\userlist\\userlist.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-09-09T19:48:09.971Z",
+              "WhenOpened": "2025-09-10T09:40:55.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "NotesController.cs",
-              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.UI\\Controllers\\Api\\NotesController.cs",
-              "RelativeDocumentMoniker": "S4Labour.TechTest.UI\\Controllers\\Api\\NotesController.cs",
-              "ToolTip": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.UI\\Controllers\\Api\\NotesController.cs",
-              "RelativeToolTip": "S4Labour.TechTest.UI\\Controllers\\Api\\NotesController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwDEAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T20:14:01.187Z",
+              "Title": "favouriteUsers.component.html",
+              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\favouriteUsers\\favouriteUsers.component.html",
+              "RelativeDocumentMoniker": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\favouriteUsers\\favouriteUsers.component.html",
+              "ToolTip": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\favouriteUsers\\favouriteUsers.component.html",
+              "RelativeToolTip": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\favouriteUsers\\favouriteUsers.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-10T09:10:11.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "allUsers.component.ts",
+              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\allUsers\\allUsers.component.ts",
+              "RelativeDocumentMoniker": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\allUsers\\allUsers.component.ts",
+              "ToolTip": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\allUsers\\allUsers.component.ts",
+              "RelativeToolTip": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\allUsers\\allUsers.component.ts",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-10T09:09:07.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-10T09:05:31.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "favouriteUsers.component.ts",
+              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\favouriteUsers\\favouriteUsers.component.ts",
+              "RelativeDocumentMoniker": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\favouriteUsers\\favouriteUsers.component.ts",
+              "ToolTip": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\favouriteUsers\\favouriteUsers.component.ts",
+              "RelativeToolTip": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\favouriteUsers\\favouriteUsers.component.ts",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-10T09:34:56.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "allUsers.module.ts",
+              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\allUsers\\allUsers.module.ts",
+              "RelativeDocumentMoniker": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\allUsers\\allUsers.module.ts",
+              "ToolTip": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\allUsers\\allUsers.module.ts",
+              "RelativeToolTip": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\allUsers\\allUsers.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-10T09:26:26.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-10T09:04:41.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-10T09:01:29.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\main.ts",
+              "RelativeDocumentMoniker": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\main.ts",
+              "ToolTip": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\main.ts",
+              "RelativeToolTip": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-10T09:06:35.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\index.html",
+              "RelativeDocumentMoniker": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\index.html",
+              "RelativeToolTip": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-10T09:39:39.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "favouriteUsers.module.ts",
+              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\favouriteUsers\\favouriteUsers.module.ts",
+              "RelativeDocumentMoniker": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\favouriteUsers\\favouriteUsers.module.ts",
+              "ToolTip": "C:\\Users\\frank\\source\\repos\\S4Labour.TechTest.UI\\S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\favouriteUsers\\favouriteUsers.module.ts",
+              "RelativeToolTip": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\src\\app\\favouriteUsers\\favouriteUsers.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-10T09:26:06.987Z",
               "EditorCaption": ""
             }
           ]
