@@ -1,0 +1,2 @@
+C:\Users\frank\source\repos\S4Labour.TechTest.UI\S4Labour.TechTest.Web\s4labour.techtest.web.client\obj\Debug\s4labour.techtest.web.client.esproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\S4Labour.TechTest.UI\s4labour.techtest.web.client\obj\Debug\s4labour.techtest.web.client.esproj.CoreCompileInputs.cache

@@ -3,12 +3,11 @@
     "Name": "New Profile",
     "Projects": [
       {
-        "Path": "S4Labour.TechTest.UI\\S4Labour.TechTest.Server.csproj",
-        "Action": "Start",
-        "DebugTarget": "https"
+        "Path": "S4Labour.TechTest.Server\\S4Labour.TechTest.Server.csproj",
+        "Action": "Start"
       },
       {
-        "Path": "S4Labour.TechTest.Web\\s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj",
+        "Path": "s4labour.techtest.web.client\\s4labour.techtest.web.client.esproj",
         "Action": "Start"
       }
     ]
